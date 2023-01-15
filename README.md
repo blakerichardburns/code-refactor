@@ -1,5 +1,5 @@
 # code-refactor
-Module Challenge: HTML, CSS, and Git
+Module 1 Challenge: HTML, CSS, and Git
 
 ![Alt text](./assets/screenshot.JPG "Screenshot")
 
