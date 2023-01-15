@@ -1,7 +1,7 @@
 # code-refactor
 Module Challenge: HTML, CSS, and Git
 
-![Alt text](.assets/screenshot.JPG "Screenshot")
+![Alt text](./assets/screenshot.JPG "Screenshot")
 
 ## Live Link
 https://blakerichardburns.github.io/code-refactor/
