@@ -24,5 +24,5 @@ This Demo webpage was contructed as a sandbox for students to refactor preexisti
   N/A
   
   ## Questions
-  For any inquiries, spam by inbox here: blakerichardburns@gmail.com <br>
+  For any inquiries, spam my inbox here: blakerichardburns@gmail.com <br>
   To peruse more of my portfolio, check this out: [blakerichardburns](https://github.com/blakerichardburns)
